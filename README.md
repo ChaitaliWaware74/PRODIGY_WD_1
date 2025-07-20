@@ -8,8 +8,7 @@ This project showcases a visually appealing and interactive one-page website wit
 - To demonstrate how scroll and hover events can be used to create an engaging health and wellness-themed webpage:
 - The navigation bar changes color and style when the user scrolls.
 - The main header text updates dynamically:
-  Displays **Health and Wellness** when at the top of the page.
-  Changes to **Explore More** when the user scrolls down.
+  Displays **Health and Wellness** when at the top of the page changes to **Explore More** when the user scrolls down.
 - Background transitions and gradients reflect a calm, wellness-inspired aesthetic.
 
 # Features
